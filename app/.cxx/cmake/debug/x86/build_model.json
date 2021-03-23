@@ -175,6 +175,7 @@
       "project": {
         "compilerSettingsCacheFolder": "G:\\Projects\\AndroidStudioProjects\\CodeRunner\\.cxx",
         "cxxFolder": "G:\\Projects\\AndroidStudioProjects\\CodeRunner\\.cxx",
+        "ideBuildTargetAbi": "x86",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -198,10 +199,7 @@
     "objFolder": "G:\\Projects\\AndroidStudioProjects\\CodeRunner\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "X86"
     ],
     "prefabDirectory": "G:\\Projects\\AndroidStudioProjects\\CodeRunner\\app\\.cxx\\cmake\\debug\\prefab",
     "prefabPackageDirectoryList": []
