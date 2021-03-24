@@ -1,4 +1,4 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion rootProject.ext.versions['compileSdkVersion']
@@ -50,7 +50,7 @@ dependencies {
     // 动画库的封装库
     implementation 'com.github.florent37:viewanimator:1.1.0'
     // 图片加载框架
-    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
     // 树状图
     implementation 'com.github.bmelnychuk:atv:1.2.9'
     // Json框架

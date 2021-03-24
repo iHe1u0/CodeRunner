@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodeRunner.iml" filepath="$PROJECT_DIR$/.idea/modules/CodeRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/editor/CodeRunner.editor.iml" filepath="$PROJECT_DIR$/.idea/modules/editor/CodeRunner.editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/format-java/CodeRunner.format-java.iml" filepath="$PROJECT_DIR$/.idea/modules/format-java/CodeRunner.format-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaCompile/CodeRunner.javaCompile.iml" filepath="$PROJECT_DIR$/.idea/modules/javaCompile/CodeRunner.javaCompile.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CodeRunner.mainMoudle.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CodeRunner.mainMoudle.iml" />
     </modules>
   </component>
