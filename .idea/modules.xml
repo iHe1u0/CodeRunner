@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodeRunner.iml" filepath="$PROJECT_DIR$/.idea/modules/CodeRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodeEditor/CodeRunner.Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/CodeEditor/CodeRunner.Editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CodeRunner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CodeRunner.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CodeEditor/CodeRunner.codeEditor.iml" filepath="$PROJECT_DIR$/.idea/modules/CodeEditor/CodeRunner.codeEditor.iml" />
     </modules>
   </component>
 </project>
