@@ -1,5 +1,6 @@
 package tiiehenry.code.view;
 
+import android.annotation.SuppressLint;
 import android.content.*;
 import android.graphics.*;
 import android.util.*;
@@ -40,6 +41,7 @@ public class CodeEditor extends CodeTextField {
     };
     private boolean _isWordWrap;
 
+    @SuppressLint("SdCardPath")
     private File fontDir = new File("/sdcard/android/fonts/");
 
     private int _index;
