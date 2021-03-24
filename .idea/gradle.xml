@@ -11,8 +11,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Editor" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/editor" />
+            <option value="$PROJECT_DIR$/format-java" />
+            <option value="$PROJECT_DIR$/javaCompile" />
+            <option value="$PROJECT_DIR$/mainMoudle" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

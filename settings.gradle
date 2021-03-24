@@ -1,3 +1,5 @@
-include ':Editor'
-include ':app'
+include ':javaCompile'
+include ':format-java'
+include ':editor'
+include ':mainMoudle'
 rootProject.name = "CodeRunner"
