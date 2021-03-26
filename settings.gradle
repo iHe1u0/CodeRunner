@@ -1,3 +1,4 @@
+include ':dx'
 include ':javaCompile'
 include ':format-java'
 include ':editor'
